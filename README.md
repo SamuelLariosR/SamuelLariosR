@@ -1,12 +1,10 @@
 
 <h1 align="center"> Hola, mi nombre es Samuel Larios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
 
-## About Me :
+## Sobre mi :
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🎓 Técnico Auxiliar en Ingienería de Software
+- 🎓 Estudiante en Ingienería de Software
 - 🏡'Lives in **Dalugama Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
