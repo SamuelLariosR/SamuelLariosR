@@ -8,6 +8,9 @@
 
 - 💻 Llevo 3 años de experiencia en desarollo web: fronted y backend , con varios proyectos en desarollo de software en python , sql , y arquitectura.
 
+- 📫 Contacto: sl301715@gmail.com
+  
+
 
 <br>
 
