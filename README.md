@@ -4,9 +4,10 @@
 ## Sobre mi :
 
 - 🎓 Técnico Auxiliar en Ingienería de Software
-- 🎓 Estudiante en Ingienería de Software
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 📝 Estudiante en Ingienería de Software
+
+- 💻 Llevo 3 años de experiencia en desarollo web: fronted y backend , con varios proyectos en desarollo de software en python , sql , y arquitectura.
+
 
 <br>
 
