@@ -14,16 +14,8 @@
 
 <br>
 
-## Teconlogías Conocidas 👨🏻‍💻
 
-<br>
-
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/60e9ac97-8837-43cf-b5e9-eedac244961b" />
-
-
-<br>
-
-## What I am Good at 🧑‍💻 :
+## WTecnologías Conocidas 🧑‍💻 :
 
 <br>
 
