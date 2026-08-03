@@ -3,8 +3,8 @@
 
 ## Sobre mi :
 
-- 🎓 Técnico Auxiliar en Ingienería de Software
-- 📝 Estudiante en Ingienería de Software
+- 🎓 Técnico Auxiliar en Ingenería de Software
+- 📝 Estudiante en Ingenería de Software
 
 - 💻 Llevo 3 años de experiencia en desarollo web: fronted y backend , con varios proyectos en desarollo de software en python , sql , y arquitectura.
 
