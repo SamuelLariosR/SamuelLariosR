@@ -15,7 +15,7 @@
 <br>
 
 
-## Tecnologías Conocidas 🧑‍💻 :
+## Tecnologías Conocidas :
 
 <p align="left">
   <a href="https://skillicons.dev">
