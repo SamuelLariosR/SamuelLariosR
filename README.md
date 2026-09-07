@@ -1,6 +1,8 @@
 
-<h1 align="left">  
- <img src="./logo.png" width="120">Hola, mi nombre es Samuel Larios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
+<h1 align="left">
+  <img src="./logo.png" width="40" height="40" valign="middle" style="display: inline-block; vertical-align: middle;" />
+  <span style="vertical-align: middle;">Hola, mi nombre es Samuel Larios 👋</span>
+</h1>
 
 ## Sobre mi :
 
