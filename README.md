@@ -1,13 +1,7 @@
-<table>
-  <tr>
-    <td valign="bottom" style="border: none; padding: 0;">
-      <img src="./logo.png" width="40" height="40" style="vertical-align: bottom;" />
-    </td>
-    <td valign="bottom" style="border: none; padding-left: 5px;">
-      <h1 style="border: none; margin: 0; padding: 0;">Hola, mi nombre es Samuel Larios 👋</h1>
-    </td>
-  </tr>
-</table>
+<h1 align="left">
+  <img src="./logo.png" width="80" height="80" valign="middle" style="display: inline-block; vertical-align: middle;" />
+  <span style="vertical-align: middle;">Hola, mi nombre es Samuel Larios 👋</span>
+</h1>
 
 - 🎓 Técnico Auxiliar en Ingenería de Software
 - 📝 Estudiante en Ingenería de Software
