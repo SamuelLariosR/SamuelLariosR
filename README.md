@@ -1,6 +1,6 @@
 <h1 align="left">
   <img src="./logo.png" width="120" height="120" valign="middle" style="display: inline-block; vertical-align: middle;" />
-  <span style="vertical-align: middle; margin-right: -10px;">Hola, mi nombre es Samuel Larios 👋</span>
+  <span style="vertical-align: middle; margin-right: -20px;">Hola, mi nombre es Samuel Larios 👋</span>
 </h1>
 
 - 🎓 Técnico Auxiliar en Ingenería de Software
