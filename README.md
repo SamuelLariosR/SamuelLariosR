@@ -1,4 +1,4 @@
-<h1><img src="./logo.png" width="150" height="150" style="vertical-align: bottom; margin-right: -10px;" />Hola, mi nombre es Samuel Larios 👋</h1>
+<h1><img src="./logo.png" width="100" height="100" style="vertical-align: bottom; margin-right: -20px;" />Hola, mi nombre es Samuel Larios 👋</h1>
 ## Sobre mi :
 
 - 🎓 Técnico Auxiliar en Ingenería de Software
