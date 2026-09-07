@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="./logo.png" width="40" height="40" align="bottom" style="vertical-align: bottom;" />
+  <img src="./logo.png" width="120" height="120" align="bottom" style="vertical-align: bottom;" />
   <span>Hola, mi nombre es Samuel Larios 👋</span>
 </h1>
 ## Sobre mi :
