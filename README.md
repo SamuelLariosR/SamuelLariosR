@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  <img src="./logo.png" width="40" height="40" valign="middle" style="display: inline-block; vertical-align: middle;" />
+  <img src="./logo.png" width="120" height="40" valign="middle" style="display: inline-block; vertical-align: middle;" />
   <span style="vertical-align: middle;">Hola, mi nombre es Samuel Larios 👋</span>
 </h1>
 
