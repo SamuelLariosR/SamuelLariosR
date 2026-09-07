@@ -1,6 +1,6 @@
 
 <h1 align="center">  
- <img src="./Esquelto.png" width="60"> Hola, mi nombre es Samuel Larios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
+ <img src="Esquelto.png" width="60"> Hola, mi nombre es Samuel Larios <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
 
 ## Sobre mi :
 
