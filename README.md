@@ -21,10 +21,6 @@
 </p>
 <br>
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
-###
-
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelLariosR/SamuelLariosR/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelLariosR/SamuelLariosR/pacman-output/pacman-contribution-graph.svg?game=pacman">
@@ -32,3 +28,5 @@
 </picture>
 
 ###
+
+
