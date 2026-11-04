@@ -26,7 +26,6 @@
 </p>
 <br>
 
-##
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelLariosR/SamuelLariosR/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
