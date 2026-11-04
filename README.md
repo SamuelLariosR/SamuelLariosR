@@ -1,3 +1,11 @@
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1><img src="./ICON.jpg" width="70" height="70" style="vertical-align: bottom; margin-right: -10px;" /> Hola, mi nombre es Samuel Larios 👋</h1>
 
 - 🎓 Técnico Auxiliar en Ingenería de Software
