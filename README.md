@@ -6,10 +6,10 @@
 
 ###
 
-<table>
+<table border="0">
   <tr>
-    <td align="center">
-      <img src="./logo.jpg" width="100" height="100" style="border-radius: 50%;" />
+    <td align="center" style="padding-right: 15px;">
+      <img src="./logo.jpg" width="100" height="100" />
     </td>
     <td>
       <h1>Hola, mi nombre es Samuel Larios 👋</h1>
