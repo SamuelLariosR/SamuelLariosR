@@ -6,10 +6,7 @@
 
 ###
 
-<div style="display: flex; align-items: center; gap: 15px;">
-  <img src="./logo.jpg" width="90" height="90" style="border-radius: 50%;" />
-  <h1 style="margin: 0; font-size: 2rem;">Hola, mi nombre es Samuel Larios 👋</h1>
-</div>
+<h1><img src="./logo.jpg" width="90" height="90" align="center" /> Hola, mi nombre es Samuel Larios 👋</h1>
 
 - 🎓 Técnico Auxiliar en Ingenería de Software
 - 📝 Estudiante en Ingenería de Software
