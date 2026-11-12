@@ -3,8 +3,8 @@
 <p>Desarrollador enfocado en software web (Frontend & Backend) y arquitectura de sistemas en Python, JavaScript y SQL, trabajando bajo entorno Linux.</p>
 
 <p>
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://tiktok.com/@TU_USUARIO"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/samuel-alejandro-larios-ramos-9353ba412/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@dev_kodex?is_from_webapp=1&sender_device=pc"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="mailto:sl301715@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
