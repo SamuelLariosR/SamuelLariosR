@@ -1,4 +1,4 @@
-<h1><img src="./logo.png" width="40" height="40" align="center" /> Hola, mi nombre es Samuel Larios 👋</h1>
+<h1><img src="./logo.png" width="60" height="60" align="center" /> Hola, mi nombre es Samuel Larios 👋</h1>
 
 <p>Desarrollador enfocado en software web (Frontend & Backend) y arquitectura de sistemas en Python, JavaScript y SQL, trabajando bajo entorno Linux.</p>
 
