@@ -12,7 +12,7 @@
 
 <h2>📌 Sobre mí</h2>
 
-<p>🎓 <b>Técnico Auxiliar en Ingeniería de Software</b> | 📝 <b>Estudiante de Ingeniería de Software</b><br>
+<p>📝 <b>Estudiante de Ingeniería de Software</b><br>
 💻 2 años creando proyectos web y soluciones de software.<br>
 🚀 Actualmente enfocado en mi <b>Proyecto Integrador</b>.</p>
 
