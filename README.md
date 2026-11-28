@@ -14,7 +14,7 @@
 
 <p>📝 <b>Estudiante de Ingeniería de Software</b><br>
 💻 2 años creando proyectos web y soluciones de software.<br>
-🚀 Actualmente enfocado en <b>Proyectos Integradores y portafolios</b>.</p>
+🚀 Actualmente enfocado en <b>Proyectos Integradores </b>.</p>
 
 <br>
 
